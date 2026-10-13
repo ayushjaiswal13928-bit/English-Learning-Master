@@ -1,0 +1,6 @@
+{
+  "name": "English Learning Master — अंग्रेज़ी सीखें",
+  "description": "हिंदी से अंग्रेज़ी सीखने का सम्पूर्ण इंटरएक्टिव रोडमैप और अभ्यास ऐप — Alphabet, Phonics, Reading, Spelling, Vocabulary, Grammar, Listening, Speaking, Translation व Quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
